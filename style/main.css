@@ -28,7 +28,7 @@
 }
 
 body {
-  background-image: url(/img/bg.png);
+  background-image: url(img/bg.png);
   width: 100vw;
   
   border-radius: 0;
